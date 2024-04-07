@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\bin\Debug\net8.0\HomeWork_AbstractClass.exe
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\bin\Debug\net8.0\HomeWork_AbstractClass.deps.json
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\bin\Debug\net8.0\HomeWork_AbstractClass.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\bin\Debug\net8.0\HomeWork_AbstractClass.dll
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\bin\Debug\net8.0\HomeWork_AbstractClass.pdb
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\obj\Debug\net8.0\HomeWork_AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\obj\Debug\net8.0\HomeWork_AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\obj\Debug\net8.0\HomeWork_AbstractClass.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\obj\Debug\net8.0\HomeWork_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\obj\Debug\net8.0\HomeWork_AbstractClass.dll
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\obj\Debug\net8.0\refint\HomeWork_AbstractClass.dll
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\obj\Debug\net8.0\HomeWork_AbstractClass.pdb
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\obj\Debug\net8.0\HomeWork_AbstractClass.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C\TMS\HomeWork_AbstractClass\HomeWork_AbstractClass\obj\Debug\net8.0\ref\HomeWork_AbstractClass.dll
